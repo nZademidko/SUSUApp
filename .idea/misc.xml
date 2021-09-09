@@ -4,6 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Nikita/AndroidStudioProjects/SUSUApp2/app/src/main/res/layout/activity_main.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/SUSUApp2/app/src/main/res/layout/fragment_events.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/SUSUApp2/app/src/main/res/layout/fragment_people.xml" value="0.152" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/SUSUApp2/app/src/main/res/layout/fragment_splash.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/SUSUApp2/app/src/main/res/layout/person_row.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/SUSUApp2/app/src/main/res/menu/bottom_nav_meny.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
