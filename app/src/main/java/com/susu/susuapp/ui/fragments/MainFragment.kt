@@ -9,8 +9,10 @@ import com.susu.susuapp.R
 import com.susu.susuapp.databinding.FragmentMainBinding
 import com.susu.susuapp.helpers.setupWithNavController
 import com.susu.susuapp.ui.architecture.BaseFragment
+import dagger.hilt.android.AndroidEntryPoint
 
 
+@AndroidEntryPoint
 class MainFragment : BaseFragment<FragmentMainBinding>(R.layout.fragment_main) {
 
 

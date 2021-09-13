@@ -4,7 +4,9 @@ import android.view.LayoutInflater
 import com.susu.susuapp.R
 import com.susu.susuapp.databinding.FragmentEventsBinding
 import com.susu.susuapp.ui.architecture.BaseFragment
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class EventsFragment : BaseFragment<FragmentEventsBinding>(R.layout.fragment_events) {
 
     override fun getViewBinding(layoutInflater: LayoutInflater): FragmentEventsBinding =
