@@ -7,7 +7,9 @@ import androidx.navigation.fragment.findNavController
 import com.susu.susuapp.R
 import com.susu.susuapp.databinding.FragmentSplashBinding
 import com.susu.susuapp.ui.architecture.BaseFragment
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class SplashFragment : BaseFragment<FragmentSplashBinding>(R.layout.fragment_splash) {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {

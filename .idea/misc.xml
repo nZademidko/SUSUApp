@@ -3,10 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Nikita/AndroidStudioProjects/SUSUApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/SUSUApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/SUSUApp/app/src/main/res/layout/fragment_events.xml" value="0.20018115942028986" />
         <entry key="..\:/Users/Nikita/AndroidStudioProjects/SUSUApp/app/src/main/res/layout/fragment_main.xml" value="0.1" />
         <entry key="..\:/Users/Nikita/AndroidStudioProjects/SUSUApp/app/src/main/res/layout/fragment_main_list.xml" value="0.13020833333333334" />
-        <entry key="..\:/Users/Nikita/AndroidStudioProjects/SUSUApp/app/src/main/res/layout/fragment_people.xml" value="0.2259963768115942" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/SUSUApp/app/src/main/res/layout/fragment_people.xml" value="0.176" />
         <entry key="..\:/Users/Nikita/AndroidStudioProjects/SUSUApp/app/src/main/res/layout/fragment_splash.xml" value="0.2259963768115942" />
         <entry key="..\:/Users/Nikita/AndroidStudioProjects/SUSUApp/app/src/main/res/layout/item_people.xml" value="0.342713567839196" />
         <entry key="..\:/Users/Nikita/AndroidStudioProjects/SUSUApp/app/src/main/res/layout/placeholder_row_person.xml" value="0.2259963768115942" />
