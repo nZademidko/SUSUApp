@@ -2,10 +2,11 @@ package com.susu.susuapp.util
 
 import androidx.recyclerview.widget.DiffUtil
 import com.susu.susuapp.models.Result
+import com.susu.susuapp.models.people.People
 
 class PeopleDiffUtils(
-    private val oldList: List<Result>,
-    private val newList: List<Result>
+    private val oldList: List<People>,
+    private val newList: List<People>
 ) : DiffUtil.Callback() {
 
     override fun getOldListSize(): Int = oldList.size
